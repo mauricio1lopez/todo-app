@@ -1,5 +1,2 @@
-temperatura
-5
-7
-12
-10
+Clean the house
+make the cake
